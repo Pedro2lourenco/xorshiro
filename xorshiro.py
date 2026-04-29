@@ -6,7 +6,7 @@ def seed_gen():
     seed1 = int.from_bytes(os.urandom(8),byteorder='big')
 
     if seed0 == 0 and seed1 == 1:
-        return seed_gen
+        return seed_gen()
 
     return seed0,seed1
 
