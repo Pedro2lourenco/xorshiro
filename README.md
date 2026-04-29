@@ -1,7 +1,3 @@
-Aqui está uma proposta de **README.md** técnica e direta para documentar o seu código.
-
----
-
 # Gerador de Números Pseudoaleatórios Xoroshiro128plus
 
 Este repositório contém uma implementação em Python do algoritmo **xoroshiro128+** (Xor/rotate/shift/rotate), um gerador de números pseudoaleatórios (PRNG) de 64 bits projetado por David Blackman e Sebastiano Vigna.
