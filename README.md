@@ -1,4 +1,4 @@
-# Gerador de Números Pseudoaleatórios Xoroshiro128plus
+# Gerador de Números Pseudoaleatórios Xorshiro128plus
 
 Este repositório contém uma implementação em Python do algoritmo **xorshiro128+** (Xor/shift/rotate), um gerador de números pseudoaleatórios (PRNG) de 64 bits.
 
