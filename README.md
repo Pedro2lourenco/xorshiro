@@ -1,10 +1,10 @@
 # Gerador de Números Pseudoaleatórios Xoroshiro128plus
 
-Este repositório contém uma implementação em Python do algoritmo **xoroshiro128+** (Xor/rotate/shift/rotate), um gerador de números pseudoaleatórios (PRNG) de 64 bits projetado por David Blackman e Sebastiano Vigna.
+Este repositório contém uma implementação em Python do algoritmo **xorshiro128+** (Xor/shift/rotate), um gerador de números pseudoaleatórios (PRNG) de 64 bits.
 
 ## Visão Geral
 
-O xoroshiro128+ é conhecido por sua alta performance e baixo uso de memória, sendo estatisticamente mais robusto que geradores tradicionais como o LCG (Linear Congruential Generator). Ele utiliza um estado de 128 bits, dividido em duas variáveis de 64 bits (`s0` e `s1`).
+O xorshiro128+ é conhecido por sua alta performance e baixo uso de memória, sendo estatisticamente mais robusto que geradores tradicionais como o LCG (Linear Congruential Generator). Ele utiliza um estado de 128 bits, dividido em duas variáveis de 64 bits (`s0` e `s1`).
 
 ## Estrutura do Código
 
